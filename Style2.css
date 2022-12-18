@@ -1,0 +1,10 @@
+img.gambar {
+		width: 100px;
+		height: auto;
+		float: left;
+		margin-right: 5px;
+	}
+
+body{
+	background-color: #FFA500;
+}
